@@ -15,7 +15,7 @@ Welcome to my cybersecurity portfolio! I am a detail-oriented professional pivot
 
 ## 🚀 Featured Projects
 
-### 🐍 [Python Automation Script: Access Control List (ACL) Updater](./log_analysis.py)
+### 🐍 [Python Automation Script: Access Control List (ACL) Updater](https://github.com/crispmayank97/automation-allow-list-updater/blob/main/README.md)
 * **Objective:** Automate the removal of restricted or deactivated IP addresses from a network allow-list to maintain strict access control.
 * **Skills Demonstrated:** Python file handling (I/O), data parsing, enforcing the **Principle of Least Privilege**.
 * **Tools Used:** Python 3, Linux CLI
