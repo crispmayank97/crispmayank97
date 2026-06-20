@@ -8,8 +8,8 @@ Welcome to my cybersecurity portfolio! I am a detail-oriented professional pivot
 ## 🛠️ Technical Toolkit
 
 * **Languages:** Python, SQL, Linux Bash
-* **Security Concepts:** Identity & Access Management (IAM), Least Privilege, Incident Response, Log Analysis
-* **Tools & OS:** Linux, Git/GitHub
+* **Security Concepts:** Identity & Access Management (IAM), Least Privilege, Incident Response, Log Analysis, Deep Packet Inspection (DPI)
+* **Tools & OS:** Wireshark, Linux, Git/GitHub
 
 ---
 
@@ -21,6 +21,10 @@ Welcome to my cybersecurity portfolio! I am a detail-oriented professional pivot
 * **Tools Used:** Python 3, Linux CLI
 * *Note: The full walkthrough and code can be found right here in this repository!*
 
+### 🦈 [Network Traffic Analysis: HTTP Investigation & Evidence Isolation](https://github.com/crispmayank97/wireshark-http-investigation/blob/main/README.md)
+* **Objective:** Analyze an unusual HTTP packet capture (`.pcapng`) to isolate, decode, and preserve traffic interacting with a potentially unauthorized external domain (`adobe.com`).
+* **Skills Demonstrated:** Packet filtering, Layer 7 header dissection, User-Agent triage, payload extraction, and forensic evidence carving (`Export Specified Packets`).
+* **Tools Used:** Wireshark
 ---
 
 ## 📜 Certifications & Education
