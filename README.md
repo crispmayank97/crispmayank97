@@ -32,7 +32,8 @@ Welcome to my cybersecurity portfolio! I am a detail-oriented professional pivot
 * **Google Cybersecurity Professional Certificate** | *In Progress (2026)*
   * *Key modules completed:* Foundations of Cybersecurity, Play It Safe: Manage Security Risks, Connect and Protect: Networks and Network Security, Tools of the Trade: Linux and SQL.
 
----
+* **Google Network Security Certificate** | *In Progress (2026)*
+  * *Key modules completed:* Network Architecture, Network Monitoring and Analysis, Network Traffic and Logs Using IDS and SIEM Tools.
 
 ## 📫 Connect with Me
 * **LinkedIn:** [https://www.linkedin.com/in/mdhyani97/]
